@@ -1,0 +1,376 @@
+21/02/2022, 2:14 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+21/02/2022, 2:14 pm - You created group "For me"
+21/02/2022, 2:14 pm - You removed Ahne
+21/02/2022, 2:55 pm - You changed the subject from "For me" to "FOR ME"
+21/02/2022, 7:41 pm - haanuel_NG: https://www.linkedin.com/posts/mengyaowang11_datascience-excel-cheatsheet-ugcPost-6898950522972332032-SI1G
+22/02/2022, 6:15 pm - haanuel_NG: BMTH
+24/02/2022, 1:16 am - haanuel_NG: https://twitter.com/marktenenholtz/status/1496469910809038854?t=3JIog0xQruJHQf8F_lbWwg&s=08
+24/02/2022, 1:20 am - haanuel_NG: https://dillionmegida.com/p/cover-letter-template/?s=08
+24/02/2022, 1:26 am - haanuel_NG: aim for leaving at least 33% of the plot area free under a line chart that doesn’t start at zero.
+24/02/2022, 4:27 pm - haanuel_NG: dbt is a command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
+25/02/2022, 3:17 pm - haanuel_NG: Data Analyst application at yulia.sharhun@appxite.com
+25/02/2022, 3:51 pm - haanuel_NG: https://support.grey.co/en/articles/5451098-how-to-withdraw-payoneer-funds-to-your-grey-virtual-account
+26/02/2022, 2:15 am - haanuel_NG: <Media omitted>
+26/02/2022, 8:19 pm - haanuel_NG: <Media omitted>
+28/02/2022, 8:45 pm - haanuel_NG: Échale un vistazo a Raghav Kandarpa (@KandarpaRaghav): https://twitter.com/KandarpaRaghav?t=YNYltkmGO8914EUPEs4oCw&s=08
+03/03/2022, 8:13 am - haanuel_NG: https://www.rforecology.com/post/how-to-use-pipes/?s=08
+04/03/2022, 1:50 am - haanuel_NG: WITH rank_salary AS (
+	SELECT *,
+		ROW_NUMBER() OVER (PARTITION BY position ORDER BY salary) as salary_rank
+	FROM candidates),
+	
+	cum_sums AS (
+	SELECT *,
+		SUM(salary) OVER(PARTITION BY position ORDER BY salary_rank)
+	FROM rank_salary),
+	
+	senior_devs AS(
+	SELECT *
+	FROM cum_sums
+	WHERE position = 'senior' AND sum <= 50000),
+	
+	n_seniors AS (
+	SELECT COUNT(*) AS seniors
+	FROM senior_devs),
+	
+	budget_for_juniors AS (
+	SELECT 50000 - COALESCE(MAX(sum), 0) as remains
+	FROM senior_devs),
+	
+	junior_devs AS (
+	SELECT *
+	FROM cum_sums
+	WHERE position = 'junior' AND sum <= (SELECT * FROM budget_for_juniors)),
+	
+	n_juniors AS (
+	SELECT COUNT(*) AS juniors
+	FROM junior_devs)
+04/03/2022, 1:51 am - haanuel_NG: <Media omitted>
+05/03/2022, 12:17 pm - haanuel_NG: 66312313497
+05/03/2022, 12:24 pm - haanuel_NG: <Media omitted>
+06/03/2022, 12:21 pm - haanuel_NG: https://www.figma.com/team_invite/redeem/j5qLjSP6qaANgBXli39r4Q
+06/03/2022, 6:23 pm - haanuel_NG: <Media omitted>
+07/03/2022, 7:53 pm - haanuel_NG: https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
+08/03/2022, 11:25 am - haanuel_NG: ..
+08/03/2022, 3:53 pm - haanuel_NG: https://twitter.com/PipingHotData/status/1497014703473704965?t=e32L31it4hGtPbEqcFQkLg&s=08
+08/03/2022, 7:02 pm - haanuel_NG: https://twitter.com/eyeshreya/status/1498989223113678850?t=GKrl_OR28AkLkjfN0G4XRg&s=08
+09/03/2022, 9:39 pm - haanuel_NG: <Media omitted>
+09/03/2022, 9:46 pm - haanuel_NG: https://www.postgresql.org/docs/9.1/functions-string.html
+09/03/2022, 10:24 pm - haanuel_NG: ..
+10/03/2022, 9:48 pm - haanuel_NG: <Media omitted>
+12/03/2022, 2:39 am - haanuel_NG: session$onSessionEnded(stopApp)
+15/03/2022, 1:59 pm - haanuel_NG: https://community.rstudio.com/t/shinyauthr-with-shinydashboard-layout/30501/4
+16/03/2022, 12:45 am - haanuel_NG: https://github.com/daattali/advanced-shiny/tree/master/upload-file-names
+18/03/2022, 12:41 am - haanuel_NG: ..
+19/03/2022, 9:32 am - haanuel_NG: https://coderbyte.com/sl-candidate?promo=newhorizons-s27fj:python-assessment-vcpe8ggb78
+20/03/2022, 8:39 pm - haanuel_NG: Hi there!
+
+I see that you need a data visualization expert to work on a reporting project. You can consider me for this project because, I have over two years of progressive experience in creating data visualizations and making reports of them.
+
+Primarily,  I use R for Exploratory Data Analysis, Data visualization, Reports, Model development, Dashboards and many others. Other tools in my arsenal include: Excel and Tableau.
+
+As someone new to freelancing and looking to build connections with amazing people, I could do this for you at a discount.
+
+If this short proposal piqued your curiosity, you can reach out to me to fully discuss the specifics of your task.
+
+Hope to hear from you soon!
+23/03/2022, 3:18 pm - haanuel_NG: <Media omitted>
+24/03/2022, 8:56 am - haanuel_NG: <Media omitted>
+25/03/2022, 10:00 am - haanuel_NG: <Media omitted>
+25/03/2022, 6:31 pm - haanuel_NG: <Media omitted>
+27/03/2022, 10:04 am - haanuel_NG: https://twitter.com/sahilbloom/status/1507706403141693444?s=21
+28/03/2022, 5:20 pm - haanuel_NG: <Media omitted>
+28/03/2022, 5:40 pm - haanuel_NG: https://www.metabase.com/community_posts/setting-up-metabase-as-a-bi-layer-in-the-modern-data-stack
+
+
+Bringing the article I wrote for Metabase here if you haven’t seen it.
+28/03/2022, 7:19 pm - haanuel_NG: https://twitter.com/GiftOjeabulu_/status/1508468447826661392?t=7tqogkHFpxN6Gjv_svaEIg&s=08
+28/03/2022, 8:48 pm - haanuel_NG: <Media omitted>
+01/04/2022, 12:55 am - haanuel_NG: 😂
+01/04/2022, 6:34 pm - haanuel_NG: https://twitter.com/danielpballer/status/1509918114124808201?t=V-aPLd9SnxGiBta_FKJQzQ&s=08
+02/04/2022, 2:10 pm - haanuel_NG: <Media omitted>
+02/04/2022, 2:17 pm - haanuel_NG: ..
+03/04/2022, 2:35 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
+05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
+05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
+08/04/2022, 10:28 am - haanuel_NG: ..
+09/04/2022, 9:41 pm - haanuel_NG: 😂
+09/04/2022, 10:08 pm - haanuel_NG: ..
+09/04/2022, 10:13 pm - haanuel_NG: <Media omitted>
+09/04/2022, 10:22 pm - haanuel_NG: ..
+09/04/2022, 10:25 pm - haanuel_NG: ..
+09/04/2022, 10:57 pm - haanuel_NG: https://ramzialqrainy.medium.com/lessons-learned-while-building-solr-search-for-over-5-billion-documents-33dbcdb7da75
+09/04/2022, 10:57 pm - haanuel_NG: https://medium.com/techlabs-emag/tuning-search-relevance-with-apache-solr-part-1-5d56c6b67f8f
+09/04/2022, 10:57 pm - haanuel_NG: https://medium.com/canvatech/migrating-from-solr-to-elasticsearch-and-their-differences-c08863268c68?source=topics_v2---------0-84--------------------ead11cd2_e315_490b_8e7f_5b147a186a4a-------19---
+
+Enjoy
+09/04/2022, 11:00 pm - haanuel_NG: Z-lib.org
+11/04/2022, 3:48 pm - haanuel_NG: <Media omitted>
+12/04/2022, 6:28 pm - haanuel_NG: <Media omitted>
+13/04/2022, 10:03 am - haanuel_NG: https://findwise.com/blog/query-completion-apache-solr/
+13/04/2022, 1:26 pm - haanuel_NG: https://www.syncfusion.com/succinctly-free-ebooks/apachesolr/add-a-ui
+13/04/2022, 8:14 pm - haanuel_NG: https://joaoneto.blog/stop-hand-editing-the-managed-schema-on-solr-and-use-the-schema-api/
+18/04/2022, 10:53 am - haanuel_NG: Use Official Lagos rate is 31.25 and ask for your say that it would be great if you can get $45
+18/04/2022, 10:53 am - haanuel_NG: As you would be handling and settling your taxes and other things like insurance and pension yourself
+18/04/2022, 6:52 pm - haanuel_NG: I can certainly see a future for myself at the company, and I’m confident that I can bring a lot of value.
+18/04/2022, 6:52 pm - haanuel_NG: Dear Stefan,
+
+Thank you for your continued interest in me.
+
+The rate of a data scientist in Lagos, Nigeria varies but on average, the hourly rate for a data scientist in Lagos is USD 31.25. It would be great if I can get an hourly rate of USD 45 as I would be handling and settling taxes and other things like insurance and pension.
+
+I can certainly see a future for myself at the company, and I’m confident that I can bring a lot of value.
+
+Thank you,
+
+Emmanuel Ugochukwu
+18/04/2022, 7:23 pm - haanuel_NG: System design premier
+19/04/2022, 8:40 am - haanuel_NG: Another cool project. 
+Generate random data, design central database schema, perform normalization up to 3NF and finally loading into MySQL using python.😊
+
+
+https://link.medium.com/gpPnGF3Elpb
+19/04/2022, 4:07 pm - haanuel_NG: <Media omitted>
+20/04/2022, 1:39 pm - haanuel_NG: https://rfortherestofus.com/internship/?s=08
+22/04/2022, 10:51 pm - haanuel_NG: ..
+23/04/2022, 5:18 pm - haanuel_NG: ..
+26/04/2022, 3:44 pm - haanuel_NG: ..
+26/04/2022, 9:31 pm - haanuel_NG: https://towardsdatascience.com/building-etl-pipelines-for-beginners-17c3492d29d2
+28/04/2022, 8:51 am - haanuel_NG: https://link.medium.com/itLUCUgCApb
+28/04/2022, 5:24 pm - haanuel_NG: Guys ….
+
+
+https://dphi.tech/bootcamps/data-engineering
+28/04/2022, 5:24 pm - haanuel_NG: https://www.seeqr.info/
+
+Who says we needed to install databases or IDEs before we can play with SQLs
+28/04/2022, 5:25 pm - haanuel_NG: Served as it is hot😊
+https://link.medium.com/3OyfIn6LApb
+29/04/2022, 7:16 am - haanuel_NG: https://link.medium.com/w5TOqnoaCpb
+29/04/2022, 7:27 am - haanuel_NG: https://link.medium.com/s4uuYefbCpb
+29/04/2022, 7:44 am - haanuel_NG: https://link.medium.com/kHV2qDrcCpb
+29/04/2022, 8:24 am - haanuel_NG: https://link.medium.com/WKR1CPdfCpb
+
+A good one here on writing good SQL
+29/04/2022, 8:29 am - haanuel_NG: https://link.medium.com/h68UUtvfCpb
+
+Some smart automation with python
+29/04/2022, 10:57 am - haanuel_NG: try libgen.rs
+02/05/2022, 8:22 am - haanuel_NG: https://link.medium.com/WOEE4VocHpb
+02/05/2022, 8:22 am - haanuel_NG: Come up to speed on data modeling concepts.  
+https://link.medium.com/YxmxqRBcHpb
+02/05/2022, 9:35 pm - haanuel_NG: https://towardsdatascience.com/r-is-slow-and-its-your-fault-2fcedacc7abb
+03/05/2022, 1:56 am - haanuel_NG: <Media omitted>
+03/05/2022, 10:42 am - haanuel_NG: https://link.medium.com/NNzFKkK2Ipb
+03/05/2022, 1:10 pm - haanuel_NG: <Media omitted>
+04/05/2022, 2:01 am - haanuel_NG: https://youtu.be/MrEo1pi7w4o
+04/05/2022, 9:08 am - haanuel_NG: Choosing ETL or ELT?
+https://link.medium.com/AYz2yQaAKpb
+04/05/2022, 9:08 am - haanuel_NG: https://link.medium.com/NRWih7OAKpb
+
+If your SQL tables or output are not dropping fast, check this techniques out  and thank me later.
+04/05/2022, 2:52 pm - haanuel_NG: https://oscarbaruffa.com/step0/
+04/05/2022, 4:17 pm - haanuel_NG: https://medium.com/@pandit.summit/change-data-capture-using-debezium-postgres-kafka-connect-in-windows-10-65f73843bea5
+05/05/2022, 8:36 am - haanuel_NG: Go and subscribe you all and put on notifications bell.  I personally have bias towards Zach Wilson’s channel. Go check him out 
+
+
+https://link.medium.com/97o6NFkdMpb
+05/05/2022, 10:38 am - haanuel_NG: https://youtube.com/c/TidyX_screencast
+
+TidyX screencast
+05/05/2022, 8:59 pm - haanuel_NG: https://docs.google.com/spreadsheets/d/1LY4DEJP-9WaL5UFUEFM64SD1zjCVkZCEhkpt-Ax0vSg/edit?usp=sharing
+06/05/2022, 7:43 pm - haanuel_NG: Msi Katana GF76
+07/05/2022, 1:41 pm - haanuel_NG: You have been hearing about Knowledge Graphs etc and how the likes of Google uses it.
+A quick project to the concept 
+
+https://link.medium.com/Ri0LHKhSOpb
+07/05/2022, 3:04 pm - haanuel_NG: https://github.com/tomasonjo/blogs/blob/master/ie_pipeline/SpaCy_informationextraction.ipynb
+08/05/2022, 8:40 am - haanuel_NG: Apache Superset
+https://link.medium.com/giHGMFlaRpb
+08/05/2022, 8:40 am - haanuel_NG: Something for our Ogas here. 
+
+I enjoyed this particular piece
+https://link.medium.com/kPnDMoaaRpb
+08/05/2022, 11:37 am - haanuel_NG: https://twitter.com/AyoOluleye/status/1522607003692056576?t=KBCT6j3EQC54fBYaek5lbA&s=08
+08/05/2022, 12:39 pm - haanuel_NG: https://link.medium.com/YvWVRXQAQob
+
+@2347033167142 just in time for you to have other options apart from GE
+08/05/2022, 3:15 pm - haanuel_NG: <Media omitted>
+09/05/2022, 10:45 am - haanuel_NG: *Guys a major highlight of PYCON US 2022*. 
+
+You can now even share your python data visualizations as an html file that anyone can open and you can make it interactive or you can even host the html file sef 🤣😂
+
+https://link.medium.com/5tA36BJTSpb
+09/05/2022, 10:45 am - haanuel_NG: Lastly - A less technical piece for us 🤗
+
+https://link.medium.com/ORAUMGqTSpb
+09/05/2022, 11:37 pm - haanuel_NG: Either way can work... 
+But this has worked many times.
+
+Use latent dirichlet allocation model
+
+Test whether the distribution per activity description of hidden semantic information could predict the classes (charity or humanitarian etc)
+
+Since the data is about <10^5; Train LDA Model on about 75% of the activity description (randomized sample).
+
+Grab Topic distributions for every activity description using the LDA Model
+
+Use Topic Distributions directly as feature vectors in supervised classification models (random forest preferably) and get F1-score.
+
+Use the same LDA model(same hyperparameters) to get topic distributions for other 30% (unseen data)
+
+Run supervised classification models again on the 30% vectors and see if this generalizes.
+
+If the supervised F1-scores on the unseen data generalizes, then you can posit that the 70% topic model has identified latent semantic structure that persists over time in this activity description.
+
+NB: test with at least 3 kfolds (different random state) to concretize your label
+
+Then you are good to go.
+10/05/2022, 6:31 am - haanuel_NG: https://juliasilge.com/blog/sherlock-holmes-stm/
+10/05/2022, 6:48 am - haanuel_NG: https://youtu.be/O_B7XLfx0ic
+10/05/2022, 6:48 am - haanuel_NG: Adding labels to text...
+
+https://thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis/
+10/05/2022, 7:01 am - haanuel_NG: https://link.medium.com/IRE5BNfpUpb
+10/05/2022, 7:15 am - haanuel_NG: https://link.medium.com/TbNIkvhqUpb
+10/05/2022, 5:19 pm - haanuel_NG: ...
+10/05/2022, 6:23 pm - haanuel_NG: https://towardsdatascience.com/3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f
+11/05/2022, 7:00 am - haanuel_NG: https://link.medium.com/zXo1Wc53Vpb
+
+New project
+12/05/2022, 7:06 pm - haanuel_NG: *Data Lake* - This is pretty much or most times an object or cloud storage you use to house data in its raw format. From Structured to semi-structured and unstructured data. The good thing about it is that it accepts data in all format but the downside to it most times is that you don't get the simple advantages you get with a Data Warehouse like querying your data, having ACID BASE transactions and operations with data. 
+
+You have to implement data governance and policies yourself so your data lake doesn't become a *DATA SWAMP* .
+But these days there are a bunch of technologies out there that helps put in all of these things in place and help implement a good functioning data lake properly. examples are LakeFS which is bring git versioning to Data Environments, some refer to it as the perfect data management tools. Another tool is Delta Lake which is used to upgrade the data lake by making it possible for you to perform ACID BASE transactions on data artefacts in your data lake because you are able to save your structured data as Delta Tables that you can write SQL queries against and also delta lake brings it data governance and management to your data lake because it does versioning out of the box, meta data handling and also keeps the logs of your data artefacts at different point so you are able to perform time travel operations on your data assets
+
+ Some other the cool advantages of this is you are able to store your data for long with less cost and you are also able to separate your storage layer from your computing layer in your data environment or infrastructure.
+12/05/2022, 7:06 pm - haanuel_NG: *Data Warehouse* - I would keep it short here as this is the defacto run to environment for structured data on a wide scale, And there are a bunch of technologies out there that handles this and implements this in different strategies, so it is up to you to sit it out with Data Engineers and other Data Experts to figure out what suits your use case best. 
+
+With this , Business teams are able to perform analytics on a wide scale..
+
+The major downside to Data Warehouses is the fact that you cannot handle unstructured data and also it takes some special kind of skill and implementations to handle semi-structured data.
+12/05/2022, 7:06 pm - haanuel_NG: But it would be unfair to talk about those two without talking about the LakeHouse and Data Mesh.
+12/05/2022, 7:06 pm - haanuel_NG: So remember for the data lake, remember I said that there are technologies people used to handle it flaws. 
+
+So in actual sense ehn,
+
+A LakeHouse is actually *Data Lake + Data Warehouse*
+
+*A lakehouse* builds upon the strength and flaws of these two technologies and concepts.
+
+So Ideally when you use Delta Lake to handle the flaws of a typical data lake, you are actually implementing a Lakehouse.
+
+The easiest way to implement the LakeHouse is by using *Databricks* environment out of the box with any of your cloud or object storage or any file system of your choice be it Hadoop FS, LakeFS or even minIO storage
+12/05/2022, 7:28 pm - haanuel_NG: But na Microsoft Senior guy get am oo. His name is James Serra. It contains Links to Podcaasts, talks, videos, slides and presentations on these things
+
+https://www.jamesserra.com/archive/2022/02/data-lakehouse-data-mesh-and-data-fabric/
+12/05/2022, 7:28 pm - haanuel_NG: I am sorry for spamming at this point, 
+
+Just imagine that you have petabytes and zetabytes of data sha and you know that you won't be querying historical data of like say 10 - 15 years soon but maybe once in a while. In a typical scenario ehn, having everything in a typical data warehouse would consume so much space and storage."
+
+Lets me use something small, You are using Postgres for your data warehouse implementation, and your data size is like 100Gb but you know that you hardly query a large part of the data. What you can do here is to have your historical data in a Lakehouse or normal data in parquet format or delta table format hereby shrinking your 100Gb to about 25Gb in parquet but you connect your lakehouse to your Postgres using *parquet_fdw* , So that you can query your red hot data which can be around 5Gb on Postgres and from Postgres environment, you can query your historical data which is 25Gb in size from the data lake or lakehouse
+13/05/2022, 9:37 pm - haanuel_NG: ..
+14/05/2022, 9:11 am - haanuel_NG: https://www.udacity.com/course/data-scientist-nanodegree--nd025
+14/05/2022, 10:41 pm - haanuel_NG: This is about to be a little long read.
+
+I think the biggest career turnover in the data space happens in data science, unfortunately. And by "data science" here, I'm specifically referring to the typical scope of work of a "data scientist", because sometimes the term "data science" can refer to one entire side of the coin of the data space itself, the other side being data management/governance.
+
+Now, talking about turnover, I've seen that it can be hard to break into data science after the learning journey, even harder to succeed in the role, and hardest to sustain success and keep up the progression of career growth. 
+
+Most people give up at Stage 1. Stage 2 is where some others come to the objective realisation that data science isn't the best area for them to make impact with data. Stage 3 is where you see the rest of the pivot where people permanently ditch DS for other data areas such as DA or DE, or even completely outside such as product or engineering.
+
+I've been opportune to function across DA, DS, DE, sometimes focusing on one individual area and other times doing a combination, but I've spent the shortest time doing data engineering and the longest doing data science. In my experience across the 3 areas, it's easy to understand why data science gets the most turnover. Data science is the most hyped amongst all the data specialisations. And, if you ask me the hype is well worth it – data science literally sits at the center of decision optimisation and automation for orgs that are creating and monetising data value streams. 
+
+The problem with this hype is that the complexities are not presented well enough or even at all, so it typically sounds like you only need to learn coding (Python/R), a little bit of statistics, and then machine learning. So you get excited and learn these, then realise that with only these skills, you are just about the most useless DS professional in the competitive talent pool. You even find that your counterparts have additional tools in their stack (e.g., badass SQL, Spark, Kafka, Storm, SageMaker, etc). Now, you have a new motivation, so you throw in more tools to your learning curve.
+
+But all the while you have not learned or developed skills in the deep, intricate principles for driving business value with data science. You have not learned how to extend the capabilities of a data engineer and analyst to get additional business value that those areas alone cannot provide. Note the keyword: *business value*. We will get back to this.
+
+So for those who don't give up in stage 1, they finally get the job and then realise how reality is very off-tangent with expectation. Not everyone is able to adjust to this realisation and adapt at the pace required to keep succeeding in the role, hence the switch to other areas. The ones that are able to adapt and eventually become successful in a data science career are the ones that really had "true" inclinations for the field all along. 
+
+So I think the mistake that has been made over the years when presenting data science to noobs is that people are usually not allowed to naturally discover what their inclinations in the data space are. Rather than trying to hype data science and describe a bunch of skills required for it, a more impactful approach in my experience would be to present different use cases and challenging problems across the data space and initiate discussions to help noobs identify which ones best interest them. 
+
+These discussions would then include details on the kind of tools that are used to solve each type of problem, the skills involved, the problem solving approach, the technical issues or roadblocks that typically arise, and how different resolutions of these issues can impact the business differently. Interestingly, these are the kinds of discussions that come up here a lot, which is why beginners here will benefit a lot.
+
+The more they see different problems and understand which ones belong to which area, the more they begin to develop a pattern of interests and problems they would like to solve; this makes them have the right bias towards a particular area and they are then able to evaluate whether or not they are up for it based on their background or aptitude for learning.
+15/05/2022, 1:19 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
+
+One layer is the scientific layer, where the difficulties are mostly around reasoning and problem solving. Reasoning, because the problems (after being formalised in a data science framework) are not always open-ended and you have to draw out the connections and literally create the trajectory for how your solution should evolve. Reasoning requires abstract thought and the ability to deduce things from first principles, and this is one of the most important skills for data science yet the most untapped. Problem solving is another difficulty because you have to be adaptive enough to different solution approaches until you find the most suitable. Also requires you to be persistent enough to push through roadblocks, and alert and objective enough to spot limitations in your methodology and skillfully eliminate them.
+
+Now, the second layer is the business layer, where the difficulty lies with aligning science to business. Science is mostly deterministic, business is mostly stochastic. Applying data science to business then means developing or implementing the specific principles of science that allow us to deal with the "stochastic" nature of a business landscape that is constantly "changing" with new "data". This is why data science is built on solid foundations of calculus, linear algebra, and probability. Notice the 3 things in quotes: stochastic, changing, data. Probability handles the uncertainty (stochasticity), calculus handles the change, linear algebra handles the data. 
+
+Now, as a data scientist, your ability to discover what scientific principles are relevant for a specific business problem is what makes you stand out. This is what I mentioned earlier about being able to drive business value with data. The problem most times with many of us, even the best of us, is that we get so lost or distracted with the techniques and tools for implementing the principles, that we take off our focus from reasoning through the principles and connecting the ideas and methodologies to navigate the business domain until the problem succumbs.
+
+Coding is a very important aspect of our work as data scientists, and the best data scientists I've seen are very excellent at code. But there's usually this notion I've seen about them and that's the fact that coding is always for them a means to an end. The moment the best thing you can do as a data scientist is code, you are not a data scientist, you are a programmer 😂. Harsh statement, but it's the truth, although being a programmer is itself very valuable. 
+
+This is why in robust orgs, the role of machine learning engineer is separated from data scientist role, so an ML engineer focuses on the code-heavy solutions, including system design and integrations, while the data scientist focuses on problem solving, statistical inference, experimentation, ML algorithm justification, and long-term business impact. 
+
+ML engineers who are also very strong on the data-centric and business-centric side are priceless ❤️
+15/05/2022, 8:45 pm - haanuel_NG: Learning and Practicing SQL: Resources and Platforms
+
+1. https://sqlbolt.com/
+2. https://sqlzoo.net/
+3. https://www.codecademy.com/learn/learn-sql
+4. https://www.w3schools.com/sql/
+5. https://www.hackerrank.com/domains/sql
+6. https://www.windowfunctions.com/
+7. https://selectstarsql.com/
+8. https://quip.com/2gwZArKuWk7W
+9. https://leetcode.com/problemset/database/
+10. http://thedatamonk.com
+15/05/2022, 8:49 pm - haanuel_NG: Yeah it never stops. I think it is important to pace yourself. You can check this out. 
+ https://link.medium.com/BXgEieLE3pb
+
+Hopefully you find it helpful
+15/05/2022, 9:11 pm - haanuel_NG: <Media omitted>
+15/05/2022, 9:11 pm - haanuel_NG: <Media omitted>
+15/05/2022, 9:11 pm - haanuel_NG: <Media omitted>
+15/05/2022, 9:11 pm - haanuel_NG: https://docs.google.com/document/d/1ZZhmfFlU1hu2MgiwYuLS0xeWPG8_XrYo2E-jHCLdJ_o/edit?usp=sharing
+16/05/2022, 9:47 pm - haanuel_NG: ..
+17/05/2022, 1:47 am - haanuel_NG: <Media omitted>
+17/05/2022, 1:48 am - haanuel_NG: <Media omitted>
+17/05/2022, 1:57 am - haanuel_NG: <Media omitted>
+17/05/2022, 2:01 am - haanuel_NG: ª
+17/05/2022, 10:47 am - haanuel_NG: https://youtu.be/6mBtTNggkUk
+17/05/2022, 11:07 pm - haanuel_NG: https://www.kaggle.com/code/nanomathias/predicting-r-vs-python/notebook
+18/05/2022, 7:57 am - haanuel_NG: https://link.medium.com/VVP53xxK7pb
+18/05/2022, 8:02 am - haanuel_NG: I know I have been stressing the importance of data versioning lately which is why I keep telling us to check out LakeFS and save ourselves some stress
+
+
+https://link.medium.com/lfVftmMK7pb
+18/05/2022, 8:03 am - haanuel_NG: <Media omitted>
+18/05/2022, 8:03 am - haanuel_NG: https://sspaeti.com/blog/data-engineering-project-in-twenty-minutes/
+19/05/2022, 1:44 pm - haanuel_NG: Airflow and Great Expectations 💯💯
+https://link.medium.com/3v6UeaSM9pb
+19/05/2022, 6:55 pm - haanuel_NG: Independent contractor has to do with remote roles most times where the company is not available locally 
+
+So you can’t get tax payments benefits , insurance etc
+
+You handle those things yourself
+19/05/2022, 6:55 pm - haanuel_NG: Independent contractor is fine oo and best, I have served as that in a Free lance function 
+
+I was able to bargain for alot of perks personally. The headache there is you doing your work and invoicing customer at the end of every month
+19/05/2022, 6:55 pm - haanuel_NG: If you are in Europe, the implication of IC is that you will have to register as a sole proprietor at the local tax office and won't have many employment benefits like Temi said.No insurance and other things that are made compulsory by the local labour law.  
+
+You will be seen as an entrepreneur and the company contracting you will be seen as your customer. 
+
+You will have to declare the taxes from your business(Your salary in this case) yourself and give the government their share. If you like, japa with it 😅
+
+Also, because the company is not paying insurance and other stuff, your salary will be higher.
+
+But in Nigeria, it is a no man's land. It doesn't matter like that which one you choose. In fact, just go the independent contractor thing if your are in Nigeria.
+21/05/2022, 5:04 pm - haanuel_NG: https://www.getgamp.com/repair
+22/05/2022, 2:28 pm - haanuel_NG: <Media omitted>
+22/05/2022, 9:19 pm - haanuel_NG: I thought I shared this a long while, not sure but bringing it back
+
+https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630
+22/05/2022, 9:21 pm - haanuel_NG: https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained
+23/05/2022, 8:01 am - haanuel_NG: ..
+23/05/2022, 8:21 am - haanuel_NG: https://typefully.com/jsulopz/XuPZGtG
+23/05/2022, 8:21 am - haanuel_NG: I really enjoyed this one. It demystifies everything from Data Quality to Data Observability to Data Lineage and now *FULL STACK DATA OBSERVABILITY* 😁
+
+https://link.medium.com/1uGTczt0fqb
+23/05/2022, 10:35 am - haanuel_NG: https://youtube.com/playlist?list=PLas_mS2V1XIRsJZ9yACVeg8cvZucNnhvI
+
+For the Geospatial folks in the house, a playlist of intermediate to advanced spatial analysis techniques.
+24/05/2022, 10:08 am - haanuel_NG: <Media omitted>
+25/05/2022, 10:40 pm - haanuel_NG: ..
