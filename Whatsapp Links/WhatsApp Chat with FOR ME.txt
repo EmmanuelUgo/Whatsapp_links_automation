@@ -90,7 +90,7 @@ Bringing the article I wrote for Metabase here if you haven’t seen it.
 01/04/2022, 6:34 pm - haanuel_NG: https://twitter.com/danielpballer/status/1509918114124808201?t=V-aPLd9SnxGiBta_FKJQzQ&s=08
 02/04/2022, 2:10 pm - haanuel_NG: <Media omitted>
 02/04/2022, 2:17 pm - haanuel_NG: ..
-03/04/2022, 2:35 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
+03/04/2022, 2:34 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 08/04/2022, 10:28 am - haanuel_NG: ..
@@ -292,7 +292,7 @@ So I think the mistake that has been made over the years when presenting data sc
 These discussions would then include details on the kind of tools that are used to solve each type of problem, the skills involved, the problem solving approach, the technical issues or roadblocks that typically arise, and how different resolutions of these issues can impact the business differently. Interestingly, these are the kinds of discussions that come up here a lot, which is why beginners here will benefit a lot.
 
 The more they see different problems and understand which ones belong to which area, the more they begin to develop a pattern of interests and problems they would like to solve; this makes them have the right bias towards a particular area and they are then able to evaluate whether or not they are up for it based on their background or aptitude for learning.
-15/05/2022, 1:19 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
+15/05/2022, 1:18 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
 
 One layer is the scientific layer, where the difficulties are mostly around reasoning and problem solving. Reasoning, because the problems (after being formalised in a data science framework) are not always open-ended and you have to draw out the connections and literally create the trajectory for how your solution should evolve. Reasoning requires abstract thought and the ability to deduce things from first principles, and this is one of the most important skills for data science yet the most untapped. Problem solving is another difficulty because you have to be adaptive enough to different solution approaches until you find the most suitable. Also requires you to be persistent enough to push through roadblocks, and alert and objective enough to spot limitations in your methodology and skillfully eliminate them.
 
@@ -382,3 +382,95 @@ https://link.medium.com/ueuinrsLmqb
 28/05/2022, 6:23 pm - haanuel_NG: https://us02web.zoom.us/j/81713496372?pwd=RDZRMEFSVFZIbWV3cjlSTFFIck52QT09
 31/05/2022, 9:33 am - haanuel_NG: https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle/notebook
 31/05/2022, 12:41 pm - haanuel_NG: ..
+03/06/2022, 11:20 am - haanuel_NG: ..
+04/06/2022, 10:59 am - haanuel_NG: https://link.medium.com/Fv495fVaAqb
+04/06/2022, 9:01 pm - haanuel_NG: ..
+04/06/2022, 9:51 pm - haanuel_NG: ..
+06/06/2022, 6:42 pm - haanuel_NG: https://twitter.com/drokanbulut/status/1533835273322106882?t=4wGQv7bNFcsEJHwF5U6vqQ&s=08
+08/06/2022, 12:33 am - haanuel_NG: https://gist.github.com/AlbertRapp/438102c458fc8fbdffcb6feb76ff93f7?s=08
+08/06/2022, 11:56 am - haanuel_NG: BTC, ETH, XRP, MATIC, ADA
+08/06/2022, 12:53 pm - haanuel_NG: An organization usually have a budget for a specified time period e.g 2021/01/01 - 2021/06/30
+With this information, I'm trying to prepare a time column for the analysis and forecast.
+Which approach do you think would be good?
+I have tried creating new time period which fills up the start and end period, e.g if the start date is 2021/01/01 and ends at 2021/06/30, i'd create new time period for January down to June and those months would have the same budget amount.
+I also noticed that the end date period follow a pattern. I will have to verify this with other organizations but i don't think using only end dates would be meaningful
+08/06/2022, 4:10 pm - haanuel_NG: https://instagram.com/thefloriescents?igshid=YmMyMTA2M2Y=
+08/06/2022, 5:06 pm - haanuel_NG: ..
+09/06/2022, 10:03 am - haanuel_NG: This helps alot. 
+
+A few books that I have read and think can help indirectly.
+* Naked statistics by Charles Wheelman
+* Calling Bullshit - Art of skepticism in a data world by Carl Bergstrom
+* You are not so smart by David Mcraney 
+*Numerate life by John Paulos
+
+I haven't read the Numerator life book but I plan to. Heard it is a good one
+09/06/2022, 12:28 pm - haanuel_NG: ..
+09/06/2022, 6:00 pm - haanuel_NG: ..
+11/06/2022, 10:36 am - haanuel_NG: ..
+13/06/2022, 2:39 am - haanuel_NG: ..
+13/06/2022, 9:08 pm - haanuel_NG: ..
+13/06/2022, 11:47 pm - haanuel_NG: https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/?s=08
+14/06/2022, 9:13 pm - haanuel_NG: ..
+14/06/2022, 10:00 pm - haanuel_NG: ..
+15/06/2022, 4:48 am - haanuel_NG: ..
+15/06/2022, 3:51 pm - haanuel_NG: ..
+15/06/2022, 8:14 pm - haanuel_NG: Dear all,
+I have uploaded the 35 videos on “Time Series Analysis using EViews”. This series can be used by researcher scholars for their research work. Please do share this videos with your colleagues, scholars and students to help them in carrying out “Time Series Analysis”
+1. Introduction to Econometrics: https://youtu.be/TqGux080L0U 
+2. Installation of EViews: https://youtu.be/V5CTmWbq7XY 
+3. Importing the data in EViews: https://youtu.be/ANBLiNDC55c 
+4. Classical Linear Regression Model Assumptions: https://youtu.be/yfq0yFeANtc 
+5. Regression Analysis: https://youtu.be/4xxYFeyhsFA 
+6. Autocorrelation using EViews: https://youtu.be/RbVH78rpVAM 
+7. Heteroskedasticity using EViews: https://youtu.be/3a25UWiC3yQ 
+8. Multicollinearity using EViews: https://youtu.be/yglp4Bw7vrc 
+9. Non-stationarity using EViews: https://youtu.be/YaexLRgu7rU 
+10. Auto Regressive Integrated Moving Average (ARIMA) Models using EViews: https://youtu.be/HYOzmTzpSU8 
+11. Cointegration Analysis using EViews: https://youtu.be/MafRAySsd84 
+12. Vector Auto Regressive Model using EViews: https://youtu.be/oHiutYRP0bg 
+13. Vector Error Correction Model using EViews: https://youtu.be/klur99tJesQ 
+14. Auto Regressive Distributed Lag (ARDL) Model using EViews 12 : https://youtu.be/s5kYY3oUO7s 
+15. Structural Break in EViews 12 : https://youtu.be/bT0D-VE4ImE 
+16. Auto Regressive Distributed Lag (ARDL) Model using Dummy Variables in EViews 12: https://youtu.be/6mecHpFMoTU 
+17. Auto Regressive Conditional Heteroskedasticity (ARCH) Model in EViews 12 : https://youtu.be/7k3vxqafhHE 
+18. General Auto Regressive Conditional Heteroskedasticity (GARCH) Model in EViews 12: https://youtu.be/rB7xC-M7xhM 
+19. Dummy Variable Analysis in EViews 12 : https://youtu.be/xNmg1LfzASs 
+20. Fan Chart in EViews 12: https://youtu.be/WmW14hc68zM 
+21. Static and Dynamic Forecasting in EViews 12: https://youtu.be/EmqjEed-_0I
+22. Stability Test in EViews 12: https://youtu.be/KkrF7c-NZ7k 
+23. Ramsey Reset Test in EViews 12: https://youtu.be/NVaWulsVMlk 
+24. Omitted Variable Test in EViews 12: https://youtu.be/I3iMphjazVs 
+25. Transmission Channel in EViews 12: https://youtu.be/Mehde0akNa4 
+26. Seasonality and its remedies in EViews 12: https://youtu.be/l7CxXD0xxV4 
+27. Categorical Data Analysis in EViews 12: https://youtu.be/Ap6t2DNzNf4 
+28. Seasonal ARIMA (SARIMA) Model in EViews 12: https://youtu.be/sUMdn0C7n0g 
+29. Two Stage Least Square (TSLS) Method in EViews 12: https://youtu.be/BTntOfo5Hy8
+30. Generalized Method of Moments (GMM) in EViews 12: https://youtu.be/6Z0orjtkbdo
+31. Handling Seasonality in EViews 12 : https://youtu.be/KM6pfDinFwk 
+32. Interpolation in EViews 12: https://youtu.be/wTPwBbJyx5A 
+33. Bry-Boschan (NBER) Business Cycle in EViews 12: https://youtu.be/MKj6nEnvqls 
+35. Bai Perron Test for Multiple Breaks: https://youtu.be/90J_KtVLIYs 
+36. Mixed Data Sampling (MIDAS) in EViews 12: https://youtu.be/-1xTPqyv8gc 
+Thank you all,
+Regards,
+Dr. Dhaval Maheta (DM)
+16/06/2022, 8:21 am - haanuel_NG: https://twitter.com/neilgcurrie/status/1537102647924117504?t=0b7hfZ3Hl7CUsl0A3dIYzQ&s=08
+16/06/2022, 8:22 am - haanuel_NG: Enjoy 🤗
+https://link.medium.com/KvtbK77QTqb
+17/06/2022, 11:13 am - haanuel_NG: ..
+17/06/2022, 5:59 pm - haanuel_NG: https://github.com/melanieshi0120/COVID-19_global_time_series_panel_data/blob/master/Time_series_panel_data_model_part_fatality.ipynb
+18/06/2022, 1:35 pm - haanuel_NG: ..
+19/06/2022, 9:12 am - haanuel_NG: ..
+19/06/2022, 7:49 pm - haanuel_NG: ..
+24/06/2022, 3:30 am - haanuel_NG: ..
+24/06/2022, 3:38 am - haanuel_NG: https://www.cararthompson.com/talks/user2022?s=08
+25/06/2022, 4:55 pm - haanuel_NG: ://
+25/06/2022, 8:59 pm - haanuel_NG: ..
+26/06/2022, 10:45 pm - haanuel_NG: ..
+27/06/2022, 4:01 pm - haanuel_NG: ..
+27/06/2022, 10:25 pm - haanuel_NG: https://mega.nz/folder/fWpWnTaB#s7Wo1-WzlLTcROcB0HXL0w
+
+This link holds almost any programming language/framework you want to learn... A very good instructor (Arguably the best online IT teacher).. just choose what you want to learn and download it... You don't need to download everything besides you can't even download everything 😂😂... 923GB...
+28/06/2022, 7:26 am - haanuel_NG: Good morning Siem, I'd like to inform you on the recent event at my school. Exams has been scheduled to commence by Mid August and with this, it would seem difficult to dedicate to both my studies and my work here at that time. Which is why I have decided to end my stay at Zimmerman on July 29, 2022 to better focus on my upcomping exams.
+29/06/2022, 12:42 am - haanuel_NG: Bad guy
