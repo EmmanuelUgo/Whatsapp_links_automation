@@ -90,7 +90,7 @@ Bringing the article I wrote for Metabase here if you haven’t seen it.
 01/04/2022, 6:34 pm - haanuel_NG: https://twitter.com/danielpballer/status/1509918114124808201?t=V-aPLd9SnxGiBta_FKJQzQ&s=08
 02/04/2022, 2:10 pm - haanuel_NG: <Media omitted>
 02/04/2022, 2:17 pm - haanuel_NG: ..
-03/04/2022, 2:34 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
+03/04/2022, 2:35 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 08/04/2022, 10:28 am - haanuel_NG: ..
@@ -292,7 +292,7 @@ So I think the mistake that has been made over the years when presenting data sc
 These discussions would then include details on the kind of tools that are used to solve each type of problem, the skills involved, the problem solving approach, the technical issues or roadblocks that typically arise, and how different resolutions of these issues can impact the business differently. Interestingly, these are the kinds of discussions that come up here a lot, which is why beginners here will benefit a lot.
 
 The more they see different problems and understand which ones belong to which area, the more they begin to develop a pattern of interests and problems they would like to solve; this makes them have the right bias towards a particular area and they are then able to evaluate whether or not they are up for it based on their background or aptitude for learning.
-15/05/2022, 1:18 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
+15/05/2022, 1:19 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
 
 One layer is the scientific layer, where the difficulties are mostly around reasoning and problem solving. Reasoning, because the problems (after being formalised in a data science framework) are not always open-ended and you have to draw out the connections and literally create the trajectory for how your solution should evolve. Reasoning requires abstract thought and the ability to deduce things from first principles, and this is one of the most important skills for data science yet the most untapped. Problem solving is another difficulty because you have to be adaptive enough to different solution approaches until you find the most suitable. Also requires you to be persistent enough to push through roadblocks, and alert and objective enough to spot limitations in your methodology and skillfully eliminate them.
 
@@ -474,3 +474,127 @@ https://link.medium.com/KvtbK77QTqb
 This link holds almost any programming language/framework you want to learn... A very good instructor (Arguably the best online IT teacher).. just choose what you want to learn and download it... You don't need to download everything besides you can't even download everything 😂😂... 923GB...
 28/06/2022, 7:26 am - haanuel_NG: Good morning Siem, I'd like to inform you on the recent event at my school. Exams has been scheduled to commence by Mid August and with this, it would seem difficult to dedicate to both my studies and my work here at that time. Which is why I have decided to end my stay at Zimmerman on July 29, 2022 to better focus on my upcomping exams.
 29/06/2022, 12:42 am - haanuel_NG: Bad guy
+05/07/2022, 7:46 am - haanuel_NG: https://app.gumroad.com/read/59a5da3561eb4e3085ada160a85984cc/oC-HYFBjeUVsetiBPJnZsA==?s=08
+08/07/2022, 1:49 pm - haanuel_NG: Does any vendor here sell a headset with microphone? 🙏🏼
+08/07/2022, 2:15 pm - haanuel_NG: Check out Robocorp framework or normal Python RPA framework by robocorp or check out TagUI rpa or the python variant
+08/07/2022, 2:15 pm - haanuel_NG: RPA generally should be able to handle it for you
+08/07/2022, 2:16 pm - haanuel_NG: @2348164847452 and these python based frameworks sha.
+
+🌚
+
+@2348091831446 is you want things very easy with GUI based RPA, try UiPath, Power Automate or Automation Anywhere 😊
+08/07/2022, 4:41 pm - haanuel_NG: ..
+08/07/2022, 7:00 pm - haanuel_NG: For books
+https://www.bigbookofr.com/ this hold almost every R book you need.
+
+Learning content
+David Robinson's screen casts: https://www.rscreencasts.com/
+You'll learn all the tidyverse you need to know 😅
+
+For modelling: https://juliasilge.com/
+
+Introductory course: https://youtu.be/Q5g6lYUn6Q4
+
+Andrew Couch: https://youtube.com/c/AndrewCouch
+He covers a wide range of topics in R
+
+RStudio YouTube page
+
+https://leanpub.com/rprogramming
+
+Meetups:
+https://www.meetup.com/es-ES/slc-rug/ they talk about interesting topics/things to do with R
+
+Course:
+"Data science with R" on Edx by Prof Irizarry
+ "The Analytic Edge" course on Edx too by MITx.
+
+Challenges: 
+Participate in #tidytuesday
+For machine learning, check out Sliced
+13/07/2022, 7:23 am - haanuel_NG: ..
+13/07/2022, 11:17 am - haanuel_NG: Revamps are always necessary.
+
+Had to do one on mine this holidays sef.
+
+Few things that helped me.
+
+1. Use a blank sheet to chronicle your journey.
+
+a. Career - start from year one. Forget the company, list what tasks you did and what was accomplished in each one.
+
+b. Projects. Use the STAR method. 
+
+c. Extracurricular eg. firm contributions. How did you use your interests and skills to help others grow.
+
+
+2. Take every item in (1) and slot them under job headings.
+
+For example, I've done work in Audit, accounting, forensic, risk management. And data projects. So I created headings for each one.
+
+
+3. Do a search on job titles you're interested in and what skills and tasks are required.
+
+a. Map your discovery to your own experiences.
+
+b. Where are you lagging? Plan to close the gap. 
+
+
+4. Transfer this to your CV. 
+
+a. Summary (may or may not be necessary depending on the years of experience you have).
+
+b. Skills (technical and soft skills related to the role. 
+
+c. Experience
+
+d. Portfolio/Projects (include links to git/medium/wherever you documented) 
+
+e. Education 
+
+f. Certifications and trainings 
+
+g. Achievement
+
+
+5. Items in (4) above can be rearranged to stress what's most relevant to the recruiter. 
+
+You want to put the most important thing at the top. People don't always have time to read the world on your resume lol. 
+
+If you're going to put a summary section (not objective), make sure you stress leadership ability (if it's a managerial or lead role) and the core areas of your expertise. 
+
+
+There are no hard and fast rules to these things tbh, but cv revamps are an ongoing thing in your career. 
+
+Keep a working documents on G-doc to take note of accomplishments and tasks so you don't forget. 
+
+
+✌🏽
+20/07/2022, 9:30 pm - haanuel_NG: ...
+22/07/2022, 5:55 pm - haanuel_NG: https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/?s=08
+23/07/2022, 5:59 pm - haanuel_NG: ..
+24/07/2022, 2:13 pm - haanuel_NG: Data Preprocessing steps
+
+Filtering: The original survey data was taken by various people from different parts of the world but for this dashboard, we are looking at the American population which accounted for 60% of the original data
+Pivoting: The survey data was in a wide format (i.e every question was a column, so each row was for a respondent) but in order to visualise the results, it had to be converted into a long format (i.e every question was merged into one column)
+Survey Module Generation: The questions asked were grouped into modules that summarised the entire survey purpose. This was done by manual observation. The beauty of this feature can be seen in the R dashboard.
+24/07/2022, 2:17 pm - haanuel_NG: Data Preprocessing steps
+
+Filtering: The original survey data was taken by various people from different parts of the world but for this dashboard, we are looking at the American population which accounted for 60% of the original data
+Pivoting: The survey data was in a ‘wide’ format (i.e every question was a column, so each row was for a respondent) but in order to visualise the results, it had to be converted into a ‘long’ format (i.e every question was merged into one column)
+Survey Module Generation: The questions asked were grouped into modules that summarised the entire survey purpose. This was done by manual observation. The beauty of this feature can be seen in the R dashboard. The modules are:
+Impact of mental health disorders on productivity             
+Negative experience after speaking openly about mental health disorder
+Resources for employees with mental health disorders                  
+Safe and supportive workplace for those with mental health issues   
+Speaking openly about a mental health disorder
+Speaking openly about a mental health disorder with an employer
+24/07/2022, 3:44 pm - haanuel_NG: <Media omitted>
+24/07/2022, 4:13 pm - haanuel_NG: <Media omitted>
+25/07/2022, 4:44 pm - haanuel_NG: <Media omitted>
+26/07/2022, 7:55 am - haanuel_NG: ..
+29/07/2022, 12:15 am - haanuel_NG: ..
+29/07/2022, 12:21 am - haanuel_NG: ..
+31/07/2022, 7:20 am - haanuel_NG: https://youtube.com/shorts/NoAwiv6aAaw?feature=share
+31/07/2022, 7:34 am - haanuel_NG: https://youtube.com/shorts/9jlcRTn5Tgg?feature=share
+31/07/2022, 10:29 pm - haanuel_NG: https://twitter.com/tanya_shapiro/status/1553746720533536768?t=s5zdRClotoN4zIzQ-FFJDA&s=19
