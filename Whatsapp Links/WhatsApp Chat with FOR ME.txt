@@ -11,7 +11,7 @@
 25/02/2022, 3:17 pm - haanuel_NG: Data Analyst application at yulia.sharhun@appxite.com
 25/02/2022, 3:51 pm - haanuel_NG: https://support.grey.co/en/articles/5451098-how-to-withdraw-payoneer-funds-to-your-grey-virtual-account
 26/02/2022, 2:15 am - haanuel_NG: <Media omitted>
-26/02/2022, 8:19 pm - haanuel_NG: <Media omitted>
+26/02/2022, 8:20 pm - haanuel_NG: <Media omitted>
 28/02/2022, 8:45 pm - haanuel_NG: Échale un vistazo a Raghav Kandarpa (@KandarpaRaghav): https://twitter.com/KandarpaRaghav?t=YNYltkmGO8914EUPEs4oCw&s=08
 03/03/2022, 8:13 am - haanuel_NG: https://www.rforecology.com/post/how-to-use-pipes/?s=08
 04/03/2022, 1:50 am - haanuel_NG: WITH rank_salary AS (
@@ -75,12 +75,12 @@ If this short proposal piqued your curiosity, you can reach out to me to fully d
 
 Hope to hear from you soon!
 23/03/2022, 3:18 pm - haanuel_NG: <Media omitted>
-24/03/2022, 8:55 am - haanuel_NG: <Media omitted>
+24/03/2022, 8:56 am - haanuel_NG: <Media omitted>
 25/03/2022, 10:00 am - haanuel_NG: <Media omitted>
 25/03/2022, 6:31 pm - haanuel_NG: <Media omitted>
 27/03/2022, 10:04 am - haanuel_NG: https://twitter.com/sahilbloom/status/1507706403141693444?s=21
 28/03/2022, 5:20 pm - haanuel_NG: <Media omitted>
-28/03/2022, 5:39 pm - haanuel_NG: https://www.metabase.com/community_posts/setting-up-metabase-as-a-bi-layer-in-the-modern-data-stack
+28/03/2022, 5:40 pm - haanuel_NG: https://www.metabase.com/community_posts/setting-up-metabase-as-a-bi-layer-in-the-modern-data-stack
 
 
 Bringing the article I wrote for Metabase here if you haven’t seen it.
@@ -90,7 +90,7 @@ Bringing the article I wrote for Metabase here if you haven’t seen it.
 01/04/2022, 6:34 pm - haanuel_NG: https://twitter.com/danielpballer/status/1509918114124808201?t=V-aPLd9SnxGiBta_FKJQzQ&s=08
 02/04/2022, 2:10 pm - haanuel_NG: <Media omitted>
 02/04/2022, 2:17 pm - haanuel_NG: ..
-03/04/2022, 2:34 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
+03/04/2022, 2:35 am - haanuel_NG: https://twitter.com/leeolney3/status/1510306989640925187?t=NFZOO5ExBTofZDTRkcDHkg&s=08
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 05/04/2022, 4:45 pm - haanuel_NG: <Media omitted>
 08/04/2022, 10:28 am - haanuel_NG: ..
@@ -104,7 +104,7 @@ Bringing the article I wrote for Metabase here if you haven’t seen it.
 09/04/2022, 10:57 pm - haanuel_NG: https://medium.com/canvatech/migrating-from-solr-to-elasticsearch-and-their-differences-c08863268c68?source=topics_v2---------0-84--------------------ead11cd2_e315_490b_8e7f_5b147a186a4a-------19---
 
 Enjoy
-09/04/2022, 10:59 pm - haanuel_NG: Z-lib.org
+09/04/2022, 11:00 pm - haanuel_NG: Z-lib.org
 11/04/2022, 3:48 pm - haanuel_NG: <Media omitted>
 12/04/2022, 6:28 pm - haanuel_NG: <Media omitted>
 13/04/2022, 10:03 am - haanuel_NG: https://findwise.com/blog/query-completion-apache-solr/
@@ -292,7 +292,7 @@ So I think the mistake that has been made over the years when presenting data sc
 These discussions would then include details on the kind of tools that are used to solve each type of problem, the skills involved, the problem solving approach, the technical issues or roadblocks that typically arise, and how different resolutions of these issues can impact the business differently. Interestingly, these are the kinds of discussions that come up here a lot, which is why beginners here will benefit a lot.
 
 The more they see different problems and understand which ones belong to which area, the more they begin to develop a pattern of interests and problems they would like to solve; this makes them have the right bias towards a particular area and they are then able to evaluate whether or not they are up for it based on their background or aptitude for learning.
-15/05/2022, 1:18 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
+15/05/2022, 1:19 am - haanuel_NG: For example, in data science, the problems we solve typically revolve around causal inference, machine learning or decision optimisation. Some jobs might focus on only 1 or 2 of these areas. Now, applying any of these 3 scientific pillars to business problems presents us with 2 layers of difficulty. 
 
 One layer is the scientific layer, where the difficulties are mostly around reasoning and problem solving. Reasoning, because the problems (after being formalised in a data science framework) are not always open-ended and you have to draw out the connections and literally create the trajectory for how your solution should evolve. Reasoning requires abstract thought and the ability to deduce things from first principles, and this is one of the most important skills for data science yet the most untapped. Problem solving is another difficulty because you have to be adaptive enough to different solution approaches until you find the most suitable. Also requires you to be persistent enough to push through roadblocks, and alert and objective enough to spot limitations in your methodology and skillfully eliminate them.
 
@@ -406,14 +406,14 @@ A few books that I have read and think can help indirectly.
 
 I haven't read the Numerator life book but I plan to. Heard it is a good one
 09/06/2022, 12:28 pm - haanuel_NG: ..
-09/06/2022, 6:00 pm - haanuel_NG: ..
+09/06/2022, 6:01 pm - haanuel_NG: ..
 11/06/2022, 10:36 am - haanuel_NG: ..
 13/06/2022, 2:39 am - haanuel_NG: ..
 13/06/2022, 9:08 pm - haanuel_NG: ..
 13/06/2022, 11:47 pm - haanuel_NG: https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/?s=08
 14/06/2022, 9:13 pm - haanuel_NG: ..
 14/06/2022, 10:00 pm - haanuel_NG: ..
-15/06/2022, 4:47 am - haanuel_NG: ..
+15/06/2022, 4:48 am - haanuel_NG: ..
 15/06/2022, 3:51 pm - haanuel_NG: ..
 15/06/2022, 8:14 pm - haanuel_NG: Dear all,
 I have uploaded the 35 videos on “Time Series Analysis using EViews”. This series can be used by researcher scholars for their research work. Please do share this videos with your colleagues, scholars and students to help them in carrying out “Time Series Analysis”
@@ -596,7 +596,7 @@ Speaking openly about a mental health disorder with an employer
 29/07/2022, 12:15 am - haanuel_NG: ..
 29/07/2022, 12:21 am - haanuel_NG: ..
 31/07/2022, 7:20 am - haanuel_NG: https://youtube.com/shorts/NoAwiv6aAaw?feature=share
-31/07/2022, 7:33 am - haanuel_NG: https://youtube.com/shorts/9jlcRTn5Tgg?feature=share
+31/07/2022, 7:34 am - haanuel_NG: https://youtube.com/shorts/9jlcRTn5Tgg?feature=share
 31/07/2022, 10:29 pm - haanuel_NG: https://twitter.com/tanya_shapiro/status/1553746720533536768?t=s5zdRClotoN4zIzQ-FFJDA&s=19
 02/08/2022, 6:37 pm - haanuel_NG: https://www.linkedin.com/posts/gradientmetrics_trendlines-datavisualization-activity-6960263380507009024-IpUi?utm_source=linkedin_share&utm_medium=android_app
 02/08/2022, 11:09 pm - haanuel_NG: https://twitter.com/tanya_shapiro/status/1554464712720629761?t=0rXzIgYGfruwch6sHevC4Q&s=08
@@ -640,7 +640,7 @@ https://roundup.getdbt.com/p/why-its-hard-to-ask-good-questions?utm_source=subst
 
 A good refresher
 22/08/2022, 11:31 am - haanuel_NG: https://towardsdatascience.com/concepts-and-practices-to-ensure-data-quality-f3f0a95acbbf
-22/08/2022, 11:04 pm - haanuel_NG: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238299/
+22/08/2022, 11:05 pm - haanuel_NG: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238299/
 22/08/2022, 11:22 pm - haanuel_NG: ..
 25/08/2022, 8:36 am - haanuel_NG: ..
 25/08/2022, 10:13 am - haanuel_NG: ..
@@ -658,3 +658,61 @@ A good refresher
 31/08/2022, 12:55 am - haanuel_NG: https://taeillo.com/collections/top-picks/products/amakisi-console?variant=39891242483872
 31/08/2022, 5:29 pm - haanuel_NG: <Media omitted>
 31/08/2022, 8:32 pm - haanuel_NG: https://twitter.com/tanya_shapiro/status/1565029412428562433?t=dPDMdTq-r5Y_1NGWtmjDlA&s=08
+04/09/2022, 2:05 pm - haanuel_NG: <Media omitted>
+04/09/2022, 2:05 pm - haanuel_NG: <Media omitted>
+04/09/2022, 2:05 pm - haanuel_NG: <Media omitted>
+04/09/2022, 2:05 pm - haanuel_NG: <Media omitted>
+05/09/2022, 9:12 pm - haanuel_NG: <Media omitted>
+06/09/2022, 11:06 pm - haanuel_NG: <Media omitted>
+07/09/2022, 10:30 pm - haanuel_NG: https://twitter.com/geokaramanis/status/1567540234765697025?t=iDAaUfKpQ1oQ0AD4B683xg&s=08
+11/09/2022, 7:59 am - haanuel_NG: https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md
+11/09/2022, 8:04 am - haanuel_NG: <Media omitted>
+11/09/2022, 2:19 pm - haanuel_NG: 0066488878
+Sterling Bank
+Olademeji Olave
+16/09/2022, 7:46 am - haanuel_NG: https://blog.datawrapper.de/fonts-for-data-visualization/?s=08
+16/09/2022, 11:32 am - haanuel_NG: <Media omitted>
+17/09/2022, 12:41 am - haanuel_NG: https://twitter.com/thedavescience/status/1570762712329617410?t=W12PUhFc1urSQcbYsdbzkw&s=08
+17/09/2022, 10:31 pm - haanuel_NG: https://ttimbers.github.io/10-simple-rules-for-teaching-R-for-Data-Science/10-simple-rules-for-teaching-r-for-data-science.html#6
+18/09/2022, 9:55 am - haanuel_NG: https://cleanup.pictures/
+18/09/2022, 11:03 pm - haanuel_NG: https://www.instagram.com/reel/CfB68IHgq24/?igshid=MDJmNzVkMjY=
+19/09/2022, 8:02 pm - haanuel_NG: ..
+21/09/2022, 9:51 am - haanuel_NG: <Media omitted>
+21/09/2022, 10:09 am - haanuel_NG: https://twitter.com/neilgcurrie/status/1572254358397681665?t=y_2Rh4NLkmsBEKImg8pw_A&s=08
+21/09/2022, 6:40 pm - haanuel_NG: https://www.score808.com/
+21/09/2022, 9:22 pm - haanuel_NG: <Media omitted>
+21/09/2022, 9:22 pm - haanuel_NG: <Media omitted>
+22/09/2022, 2:21 pm - haanuel_NG: https://bookdown.org/csgillespie/efficientR/data-carpentry.html?s=09
+23/09/2022, 5:39 pm - haanuel_NG: ..
+23/09/2022, 10:53 pm - haanuel_NG: ..
+27/09/2022, 10:33 am - haanuel_NG: <Media omitted>
+27/09/2022, 5:19 pm - haanuel_NG: ..
+28/09/2022, 2:49 pm - haanuel_NG: <Media omitted>
+28/09/2022, 9:38 pm - haanuel_NG: ..
+29/09/2022, 9:33 pm - haanuel_NG: https://r4dscommunity.shinyapps.io/bookclubber/?bookname=R%20Packages
+30/09/2022, 7:42 am - haanuel_NG: ..
+02/10/2022, 9:02 am - haanuel_NG: https://twitter.com/ItsKieranDrew/status/1576190456689577984?t=beukmXffunFtstysfjfMZw&s=08
+03/10/2022, 8:08 pm - haanuel_NG: 3022827178
+05/10/2022, 9:50 pm - haanuel_NG: https://twitter.com/tanya_shapiro/status/1577702074476904449?s=08
+07/10/2022, 12:33 pm - haanuel_NG: <Media omitted>
+08/10/2022, 5:39 am - haanuel_NG: https://twitter.com/melvanbussel/status/1577622678122496005?t=q8gjsedp73Yj3fAKlSHDtg&s=08
+13/10/2022, 9:20 am - haanuel_NG: I haven’t seen any straight to the point article like this in a while 😌
+
+https://link.medium.com/T5DkLcPq5tb
+13/10/2022, 12:58 pm - haanuel_NG: Download your DATAFESTAFRICA 2022 DP https://getdp.co/DataFestAfrica2022
+14/10/2022, 8:57 am - haanuel_NG: ..
+16/10/2022, 9:50 am - haanuel_NG: ..
+16/10/2022, 7:51 pm - haanuel_NG: https://twitter.com/geokaramanis/status/1581664343132762112?t=C1k6bgIHYFp_tuCOePhjJQ&s=08
+17/10/2022, 1:42 am - haanuel_NG: ..
+19/10/2022, 6:18 pm - haanuel_NG: https://twitter.com/ivelasq3/status/1582746225723383810?t=pcbooPu6akEf4b1R5d9qdw&s=08
+19/10/2022, 6:23 pm - haanuel_NG: https://twitter.com/JermaineJupiter/status/1582480397170008096?t=Dny_QcYsyaQtSR7-cS29YQ&s=08
+21/10/2022, 6:44 pm - haanuel_NG: ..
+22/10/2022, 2:27 pm - haanuel_NG: https://www.getdbt.com/blog/one-analysts-guide-for-going-from-good-to-great/
+
+
+Good read.
+24/10/2022, 11:16 am - haanuel_NG: https://twitter.com/rappa753/status/1584243458914385920?t=8O9lG6ZLuB-54ojXGB7GBg&s=08
+25/10/2022, 9:41 am - haanuel_NG: ..
+25/10/2022, 11:47 am - haanuel_NG: https://www.linkedin.com/posts/ayodele-oluleye-6a726b61_data-datascience-dataanalytics-activity-6990621731363139584-kv3w?utm_source=share&utm_medium=member_android
+27/10/2022, 10:45 pm - haanuel_NG: <Media omitted>
+29/10/2022, 12:31 am - haanuel_NG: https://instagram.com/civiesstore?igshid=YmMyMTA2M2Y=
